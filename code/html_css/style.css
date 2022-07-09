@@ -17,10 +17,4 @@ body  {
         text-align: center;
         color: white;
     }
-    animation-xd {
-        animation-name: animation-xd;
-        animation-duration: 1s;
-        animation-timing-function: ease-in-out;
-        animation-iteration-count: infinite;
-        animation-direction: alternate;
-    }
+   
