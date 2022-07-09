@@ -17,3 +17,6 @@ body  {
         text-align: center;
         color: white;
     }
+    div {
+      width: 600px; height: 360px; margin-bottom: 10px;
+    }
