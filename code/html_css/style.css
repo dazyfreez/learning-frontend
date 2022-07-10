@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
 body  {
     color : black;
     background-color : white;
@@ -9,3 +10,18 @@ body  {
  #back {
    width: auto; height: 950px; 
  }
+ li,a,button{
+
+    font-family:"Montserrat",sans-serif;
+    font-weight:500;
+    font-size:16px;
+    color:#edf0f1;
+    text-decoration:none;
+}
+  
+header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:30px 10%;
+}
