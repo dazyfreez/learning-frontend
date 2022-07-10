@@ -6,21 +6,23 @@
 
 </head>
 <body>
-    <div id = "kuh"></div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.birds.min.js"></script>
+    <div class = "kuh">
+    <script src="p5.min.js"></script>
+    <script src="vanta.topology.min.js"></script>
     <script>
-    VANTA.BIRDS({
-    el: "#kuh",
+    VANTA.TOPOLOGY({
+    el: "#your-element-selector",
     mouseControls: true,
     touchControls: true,
     gyroControls: false,
     minHeight: 200.00,
     minWidth: 200.00,
     scale: 1.00,
-    scaleMobile: 1.00
+    scaleMobile: 1.00,
+    color: 0xffffff
     })
     </script>
+    </div>
     <div class="header">
         <h1>Gragert-Invest</h1>
         <p>The save place for your money</p>
