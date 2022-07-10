@@ -28,6 +28,9 @@ body  {
         position: absolute;
         background-color: white;
         border-radius: 0px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50% 50%;
 
     }
     #img1 {
