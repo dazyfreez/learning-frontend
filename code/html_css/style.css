@@ -11,7 +11,7 @@ body  {
     font-weight: bold;
     text-align: right;
     color: black;
-    position: absolute;
+    position: relative;
  }
     h2 {
         font-size: 20px;
