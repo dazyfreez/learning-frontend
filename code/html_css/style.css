@@ -9,14 +9,14 @@ body  {
  h1 {
     font-size: 50px;
     font-weight: bold;
-    text-align: right;
+    text-align: left;
     color: black;
     position: relative;
  }
     h2 {
         font-size: 20px;
         font-weight: bold;
-        text-align: right;
+        text-align: left;
         color: black;
         position: relative;
     }
