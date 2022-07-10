@@ -11,12 +11,14 @@ body  {
     font-weight: bold;
     text-align: right;
     color: black;
+    position: absolute;
  }
     h2 {
         font-size: 20px;
         font-weight: bold;
         text-align: right;
         color: black;
+        position: absolute;
     }
     #kuh {
         width: 80%;
