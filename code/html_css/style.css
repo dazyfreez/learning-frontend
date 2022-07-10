@@ -9,18 +9,18 @@ body  {
  h1 {
     font-size: 50px;
     font-weight: bold;
-    text-align: left;
+    text-align: right;
     color: black;
  }
     h2 {
         font-size: 20px;
         font-weight: bold;
-        text-align: left;
+        text-align: right;
         color: black;
     }
     #kuh {
-        width: 8%;
-        height: 10vh;
+        width: 80%;
+        height: 100vh;
         background: fixed;
         
     }
