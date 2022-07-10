@@ -30,4 +30,12 @@ body  {
         border-radius: 0px;
 
     }
+    #img1 {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        background-color: white;
+        border-radius: 0px;
+        object-position: 100%;
+    }
    
