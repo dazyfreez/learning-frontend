@@ -18,7 +18,7 @@ body  {
         font-weight: bold;
         text-align: right;
         color: black;
-        position: absolute;
+        position: relative;
     }
     #kuh {
         width: 80%;
