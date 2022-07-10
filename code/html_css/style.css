@@ -22,6 +22,14 @@ body  {
     }
     #kuh {
         width: 80%;
-        height: 80px;
+        height: 80%;
+        position: absolute;
+        top: 10%;
+        left: 10%;
+        background-color: white;
+        border-radius: 10px;
+        border: 1px solid black;
+        box-shadow: 0px 0px 10px black;
+        
     }
    
