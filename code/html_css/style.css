@@ -22,5 +22,6 @@ body  {
         width: 80%;
         height: 100vh;
         align-items: flex-end;
+        justify-content: right;
     }
    
