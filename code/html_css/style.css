@@ -1,7 +1,7 @@
 body  {
     color : black;
     background-color : white;
-    text-align : right;
+    text-align : left;
     font-family: 'Century Gothic', sans-serif;
     margin: 0;
     padding: 0;
@@ -9,19 +9,19 @@ body  {
  h1 {
     font-size: 50px;
     font-weight: bold;
-    text-align: right;
+    text-align: left;
     color: black;
  }
     h2 {
         font-size: 20px;
         font-weight: bold;
-        text-align: right;
+        text-align: left;
         color: black;
     }
     #kuh {
         width: 80%;
         height: 100vh;
         align-items: flex-end;
-
+        
     }
    
